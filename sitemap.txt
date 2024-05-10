@@ -1,3 +1,5 @@
+http://example.com/paper/index.html
+http://example.com/picture/index.html
 http://example.com/about/index.html
 http://example.com/tags/index.html
 http://example.com/fun/index.html
