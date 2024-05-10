@@ -1,3 +1,4 @@
+http://example.com/2024/05/10/test/
 http://example.com/paper/index.html
 http://example.com/picture/index.html
 http://example.com/about/index.html
@@ -6,3 +7,5 @@ http://example.com/fun/index.html
 http://example.com/categories/index.html
 http://example.com/2024/05/10/hello-world/
 http://example.com/
+http://example.com/tags/%E6%B5%8B%E8%AF%95/
+http://example.com/categories/test/
